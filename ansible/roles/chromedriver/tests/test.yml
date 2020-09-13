@@ -1,0 +1,5 @@
+---
+- hosts: 52.172.218.23
+  remote_user: master
+  roles:
+    - chromedriver

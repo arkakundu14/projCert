@@ -1,0 +1,6 @@
+---
+# defaults file for chromedriver
+chromedriver_install_prefix: /opt/google/chromedriver
+chromedriver_service_state: restarted
+chromedriver_install_as_service: true
+chromedriver_service_enabled: true
